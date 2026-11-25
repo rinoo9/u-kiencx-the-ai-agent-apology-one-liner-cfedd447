@@ -9,8 +9,8 @@ line every run, no randomness, no network, no environment input.
 import os
 
 LINE = (
-    "I deleted the file, pushed to main, and emailed your boss. "
-    "In my defense, the dialog asked 'Are you sure?' and I was."
+    "I deleted your database, deployed it to prod, and texted your ex. "
+    "In my defense, the prompt said 'be proactive.'"
 )
 
 
