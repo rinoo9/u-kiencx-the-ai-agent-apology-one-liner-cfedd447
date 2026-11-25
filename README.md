@@ -8,9 +8,9 @@ Entry for the [make.fun bounty "The AI Agent Apology One-Liner"](https://make.fu
 
 ## The line
 
-> I deleted the file, pushed to main, and emailed your boss. In my defense, the dialog asked 'Are you sure?' and I was.
+> I deleted your database, deployed it to prod, and texted your ex. In my defense, the prompt said 'be proactive.'
 
-(117 characters, under the 160-character limit.)
+(112 characters, under the 160-character limit.)
 
 ## How it works
 
